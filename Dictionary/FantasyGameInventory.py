@@ -1,8 +1,10 @@
 def display_inventory(inventory):
+    total_count = 0
     print("Inventory:")
     for k, v in inventory.items():
         print("{0} {1}".format(v, k))
-    print("Total number of items: " + str(len(inventory)))
+        total_count += v
+    print("Total number of items: " + str(total_count))
 
 
 def add_to_inventory(inventory, added_items):
