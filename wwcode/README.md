@@ -1,6 +1,6 @@
 # Python for beginners (Python 102)
 Target Audience: Non-programmer / beginner
-Material is built on top of previous workshop in [Python 101](https://github.com/sweemeng/WWCKL-python-101)   
+Material is built on top of previous workshop in [Python 101](https://github.com/sweemeng/WWCKL-python-101).   
 Important concepts to grasp:-
 * Setting up of Environment
 * Master the basics
@@ -12,10 +12,10 @@ We will run through briefly how by installing Python into the OS allows student 
 * Executing python program on command line
 * Executing python codes on Jupyter Notebook
 * Basic understanding on what intepreter/compiler is to convert python codes into binary form
-* Make it clear to students that Python is backend language and how web application is built with HTML/CSS/JS with Django/Flask framework
+* Make it clear to students that Python is backend language and how web application is built with HTML/CSS/JS using Django/Flask framework
 
 ### Master the basics
-The topics for basics are typically:-
+The topics for basics:-
 * Data Types
 * Date Structures
 * Relational Operators
