@@ -1,6 +1,6 @@
 # Python for beginners (Python 102)
 Target Audience: Non-programmer / beginner
-Material is built on top of previous workshop in [Python 101](https://github.com/sweemeng/WWCKL-python-101)
+Material is built on top of previous workshop in [Python 101](https://github.com/sweemeng/WWCKL-python-101)   
 Important concepts to grasp:-
 * Setting up of Environment
 * Master the basics
